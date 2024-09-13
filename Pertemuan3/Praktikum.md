@@ -57,5 +57,11 @@ perbaikan :
 sesuai dengan yang diinginkan maka akan melewatkan angka yang lebih dari 1 dan kurang dari 7. Dan akan menghentikan angka di sebelum 21.
 
 
+### Tugas
+Buatlah sebuah program yang dapat menampilkan bilangan prima dari angka 0 sampai 201 menggunakan Dart. Ketika bilangan prima ditemukan, maka tampilkan nama lengkap dan NIM Anda.
+1. code :
+<img src= "tugas-code.png">
+2. hasil :
+<img src= "tugas-output.png">
 
 
