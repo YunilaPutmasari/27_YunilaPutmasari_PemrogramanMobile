@@ -34,10 +34,33 @@ Langkah 6: Date and Time Pickers
 ![Screenshot hello_world](images/07.png)
 
 
+
 4. Selesaikan Codelabs: Your first Flutter app, lalu buatlah laporan praktikumnya dan push ke repository GitHub Anda!
 
 5. README.md berisi: capture hasil akhir tiap praktikum (side-by-side, bisa juga berupa file GIF agar terlihat proses perubahan ketika ada aksi dari pengguna) dengan menampilkan NIM dan Nama Anda sebagai ciri pekerjaan Anda.
 
+
+Tugas Praktikum :
+![Screenshot hello_world](images/prak1.png)
+4. Menambahkan tombol
+![Screenshot hello_world](images/prak2.png)
+5. Menambahkan Kartu
+![Screenshot hello_world](images/prak3.png)
+6. Tema dan gaya
+![Screenshot hello_world](images/prak4.png)
+7. TextTheme
+![Screenshot hello_world](images/prak5.png)
+8. Meningkatkan aksesibilitas
+![Screenshot hello_world](images/prak6.png)
+9. menambahkan tombol
+![Screenshot hello_world](images/prak11.png)
+10. Menambahkan kolom samping navigasi
+![Screenshot hello_world](images/prak12.png)
+11. Menggunakan selectedIndex
+![Screenshot hello_world](images/prak13.png)
+![Screenshot hello_world](images/prak14.png)
+![Screenshot hello_world](images/prak15.png)
+![Screenshot hello_world](images/prak16.png)
 
 
 
